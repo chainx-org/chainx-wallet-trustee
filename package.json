@@ -10,7 +10,7 @@
     "startWin": "cross-env NODE_ENV=development electron . --debug",
     "start:watch": "nodemon --watch ./src/**/* --exec electron . --debug",
     "pack": "electron-builder --dir",
-    "dist": "yarn build && rimraf dist && electron-builder",
+    "dist": "rimraf dist && electron-builder",
     "postinstall": "electron-rebuild"
   },
   "license": "MIT",
