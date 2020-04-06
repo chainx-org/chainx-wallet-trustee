@@ -78,12 +78,14 @@
     "bitcore-lib": "^8.3.4",
     "bs58check": "^2.1.2",
     "buffer-reverse": "^1.0.1",
+    "bufferutil": "^4.0.1",
     "cross-env": "^5.2.0",
     "electron-store": "^3.2.0",
     "electron-updater": "^4.0.6",
     "node-fetch": "^2.6.0",
     "semver": "^6.1.1",
     "trezor.js": "git+https://github.com/chainpool/trezor.js.git#electron",
+    "utf-8-validate": "^5.0.2",
     "ws": "^7.0.0"
   }
 }
