@@ -82,7 +82,7 @@
     "cross-env": "^5.2.0",
     "electron-store": "^3.2.0",
     "electron-updater": "^4.0.6",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "semver": "^6.1.1",
     "trezor.js": "git+https://github.com/chainpool/trezor.js.git#electron",
     "utf-8-validate": "^5.0.2",
