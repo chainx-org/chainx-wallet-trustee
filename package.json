@@ -86,6 +86,6 @@
     "semver": "^6.1.1",
     "trezor.js": "git+https://github.com/chainpool/trezor.js.git#electron",
     "utf-8-validate": "^5.0.2",
-    "ws": "^7.0.0"
+    "ws": "^7.4.6"
   }
 }
